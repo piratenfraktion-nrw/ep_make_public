@@ -1,0 +1,26 @@
+{
+  "name": "ep_grouppad_password",
+  "description": "Make Grouppad public for Etherpad Lite",
+  "homepage": "https://github.com/piratenfraktion-nrw/ep_make_public",
+  "keywords": [
+    "etherpad",
+    "groups",
+    "public"
+  ],
+  "author": {
+    "name": "vileda",
+    "email": "vileda@piratenfraktion-nrw.de",
+    "url": "http://www.piratenfraktion-nrw.de"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/piratenfraktion-nrw/ep_make_public.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

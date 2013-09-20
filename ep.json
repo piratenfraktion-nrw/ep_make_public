@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "name": "make_public",
+      "hooks": {
+        "eejsBlock_embedPopup": "ep_make_public/hooks",
+        "eejsBlock_scripts": "ep_make_public/hooks",
+        "eejsBlock_styles": "ep_make_public/hooks"
+      }
+    }
+  ]
+}
