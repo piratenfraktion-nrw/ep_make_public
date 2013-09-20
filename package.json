@@ -1,6 +1,6 @@
 {
-  "name": "ep_grouppad_password",
-  "description": "Make Grouppad public for Etherpad Lite",
+  "name": "ep_make_public",
+  "description": "Make Grouppap public for Etherpad Lite",
   "homepage": "https://github.com/piratenfraktion-nrw/ep_make_public",
   "keywords": [
     "etherpad",
